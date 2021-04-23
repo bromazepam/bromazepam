@@ -10,12 +10,12 @@
 
 ### 📢 Find me elsewhere
 
-<p align="center"><a 
+<p align="left"><a 
 href="https://instagram.com/" target="_blank"><img alt="Instagram" 
 src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=blue" /></a> <a 
 href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
-href="https://codewars.com/users/bromazepam" target="_blank"><img alt="Codewars" 
+href="https://www.codewars.com/users/bromazepam" target="_blank"><img alt="Codewars" 
 src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&logo=codewars&logoColor=blue" /></a><br>
 </p>
 
