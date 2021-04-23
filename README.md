@@ -42,4 +42,4 @@ src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&lo
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bromazepam&hide=TeX&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bromazepam&hide=TeX&layout=compact&theme=dark)
