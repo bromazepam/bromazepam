@@ -30,7 +30,7 @@ src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&lo
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/Angular.js-%23E23237.svg?&style=flat-square&logo=angularjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
