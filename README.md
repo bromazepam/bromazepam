@@ -10,9 +10,9 @@
 ### 📢 Find me elsewhere
 
 <p>
-<a href="https://instagram.com/" target="_blank"><img alt="Instagram" 
+<a href="https://www.instagram.com/david.radibratovic/" target="_blank"><img alt="Instagram" 
 src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=blue" /></a>
-<a href="https://www.linkedin.com/in/" target="_blank"><img alt="LinkedIn" 
+<a href="https://www.linkedin.com/in/david-radibratovic/" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
 <a href="https://www.codewars.com/users/bromazepam" target="_blank"><img alt="Codewars" 
 src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&logo=codewars&logoColor=blue" /></a>
@@ -45,6 +45,7 @@ src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&lo
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bromazepam&hide=TeX&layout=compact&theme=dark)
+
 
 <br />
 
