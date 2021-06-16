@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Create some awesome app
-- ⚡ Fun fact: I love puzzle solving and playing guitar
+- ⚡ Fun fact: I love solving puzzles and playing guitar
 
 ### 📢 Find me elsewhere
 
