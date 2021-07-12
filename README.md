@@ -33,7 +33,7 @@ src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&lo
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white)
-![Angular.js](https://img.shields.io/badge/Angular.js-%23E23237.svg?&style=flat-square&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?&style=flat-square&logo=angularjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
 ![POSTGRES](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=black)
