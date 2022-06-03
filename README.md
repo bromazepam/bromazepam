@@ -1,4 +1,4 @@
-### Hi there  <img src="https://raw.githubusercontent.com/bromazepam/bromazepam/master/wave.gif" width="29px">
+### Hi there  <img src="https://raw.githubusercontent.com/bromazepam/bromazepam/master/wave.gif" width="20px">
 
 ## I'm a postgraduate student, software engineer and lifelong learner
 
