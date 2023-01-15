@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Create some awesome app
+- 🥅 2023 Goals: Same as last year, create some awesome app
 - ⚡ Fun fact: I love solving puzzles and playing Warzone with the boys
 
 ### 📢 Find me elsewhere
@@ -34,6 +34,8 @@ src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&lo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?&style=flat-square&logo=angularjs&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?&style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![VueJS](https://img.shields.io/badge/Quasar-blue?&style=flat-square&logo=quasar&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white)
 ![POSTGRES](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=black)
