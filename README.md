@@ -1,10 +1,8 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/bromazepam/bromazepam/master/wave.gif" width="30" height="30">
 
-## I'm a postgraduate student, software engineer and lifelong learner
+## I'm a software engineer, I'm always open to discussing new opportunities and collaborating on interesting projects, so feel free to reach out to me!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Same as last year, create some awesome app
 - ⚡ Fun fact: I love solving puzzles and playing Warzone with the boys
 
 ### 📢 Find me elsewhere
