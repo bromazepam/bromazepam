@@ -49,4 +49,5 @@ src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&lo
 
 <br />
 
-![Visits](https://visitor-badge.glitch.me/badge?page_id=bromazepam)
+<!-- ![Visits](https://visitor-badge.glitch.me/badge?page_id=bromazepam) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bromazepam&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bouali" /> </p>
